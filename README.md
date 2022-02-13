@@ -1,1 +1,2 @@
-### f(x) = sin(x) / x
+### here's cpp's progs
+calculating func's values and calculating a fibonacci sum
