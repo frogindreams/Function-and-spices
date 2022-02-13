@@ -1,1 +1,1 @@
-# Function-and-spices
+### f(x) = sin(x) / x
